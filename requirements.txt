@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+xgboost
+matplotlib
+seaborn
+tqdm
+toolz
+jupyter
+ipython
+kaggle
